@@ -11,7 +11,7 @@ resources:
     source:
       api: api.run.pivotal.io
       username: momcilovicnenad@yahoo.com
-      password: Am21012011
+      password: <enter password here>
       organization: Nenad
       space: dev-man
       skip_cert_check: true
